@@ -9,7 +9,7 @@ So we add 90 or/and angles so it gets it correct.
 # Why Linedraw
 Because i had no other idea.  
 # How do i use?
-first you need to download the header file (Linedraw.h)[https://github.com/GoldenStarGamer/Linedraw/blob/87bde4a7ec36eb0af801905f01198d7c983b12ea/GSLinedraw/Linedraw.h]  
-then you need to include the header, create an object: "Linedraw <something>;", replacing something with any keyword of your choosing,  
-then just use "<something>.Dir(<pov x>,<pov y>,<target x>,<target y>);" and it will return the distance. Note that pov, stands for point of view, that means the one that you want to move, and the target being the point that you want to go to, x means "x coordinate", same for y.
+first you need to download the header file: https://github.com/GoldenStarGamer/Linedraw/blob/87bde4a7ec36eb0af801905f01198d7c983b12ea/GSLinedraw/Linedraw.h  
+then you need to include the header, create an object: "Linedraw \<something>;", replacing something with any keyword of your choosing,  
+then just use "\<something>.Dir(\<pov x>,\<pov y>,\<target x>,\<target y>);" and it will return the distance. Note that pov, stands for point of view, that means the one that you want to move, and the target being the point that you want to go to, x means "x coordinate", same for y.
 # Propper Docummentation soon

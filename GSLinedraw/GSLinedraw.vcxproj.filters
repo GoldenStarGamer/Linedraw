@@ -23,5 +23,8 @@
     <ClInclude Include="cinc.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Linedraw.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

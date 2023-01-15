@@ -1,0 +1,3 @@
+﻿  GSLinedraw.cpp
+C:\Users\vicen\source\repos\GSLinedraw\GSLinedraw\Linedraw.h(15,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  GSLinedraw.vcxproj -> C:\Users\vicen\source\repos\GSLinedraw\x64\Debug\GSLinedraw.exe

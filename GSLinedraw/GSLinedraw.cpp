@@ -15,6 +15,6 @@ int main()
 	cout << "\ntarget's y coord.:";
 	cin >> ty;
 	Linedraw ld;
-	cout << ld.Dist(0, -1, 1, 2);
+	cout << ld.Dist(povx, povy, tx, ty);
 	return 0;
 }

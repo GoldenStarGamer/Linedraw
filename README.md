@@ -1,5 +1,5 @@
 # Linedraw
-This project came from pure boredom and the needing to try new things  
+This project came from pure boredom and the need to try new things  
 # What is it?
 Linedraw was made to calculate the distance from a point to the other  
 # How does it work?
